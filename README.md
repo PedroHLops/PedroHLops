@@ -9,5 +9,5 @@ About Me
 
 I'm interested in...
 
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue
-">
+![image]([{BadgeURLHere}](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue
+))
