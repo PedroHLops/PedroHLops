@@ -25,7 +25,8 @@ Main Technologies...
 you can find me at...
 
 <div>
-  <a href="mailto:pedrolopesph0@gmail.com?subject=Contato&body=Olá%2C%20gostaria%20de%20saber%20mais%20sobre.."><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" /></a>
+  <a href="mailto:pedrolopesph0@gmail.com" title="Entre em contato"> <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" /> </a>
+  <a href="https://www.linkedin.com/in/pedro-henrique-lopes-b97398234/"> <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" /> </a>
 </div>
 
 
