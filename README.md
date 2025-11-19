@@ -18,7 +18,6 @@ Main Technologies...
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgre/postgre-original.svg" />
 </div>
 
 you can find me at...
